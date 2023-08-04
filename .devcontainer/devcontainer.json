@@ -23,5 +23,6 @@
  }
 // comentário 1
 // comentário 2
-  
+   ,
+ "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
